@@ -319,7 +319,7 @@ Since release, svelte has become the most popular framework available as shown i
 
 ### Credits
 
-Tony Erlandsen - Sigvel
+Tony Erlandsen
 
 ### References
 

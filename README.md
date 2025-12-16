@@ -321,6 +321,8 @@ Since release, svelte has become the most popular framework available as shown i
 
 Tony Erlandsen
 
+Original copy: https://github.com/NoroffFEU/development-platforms/pull/36/files
+
 ### References
 
 - https://svelte.dev/docs
